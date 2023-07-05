@@ -1,3 +1,4 @@
+![MasterHead](https://ncube-digest.com/wp-content/uploads/2020/02/AI-career-roles-salary.jpg)
 <h1 align="center">Hi 👋, I'm Geleta</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geleta</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
 - 📫 How to reach me **geletamekonnen12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

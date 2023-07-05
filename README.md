@@ -1,4 +1,5 @@
-![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
+<img align="center" alt="Coding" height=250 width=10000 src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
+
 <h1 align="center">Hi 👋, I'm Geleta</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 <h3 align="left">Repositories</h3>

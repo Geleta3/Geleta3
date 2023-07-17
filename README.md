@@ -4,6 +4,8 @@
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 <h3 align="left">Repositories</h3>
 
+- [Surface defect segmentation](https://github.com/Geleta3/surface_seg)
+  
 - [Image Captioning](https://github.com/Geleta3/img2text_global)
 
 - [Data pipeline for object detection](https://github.com/Geleta3/det_pipeline)
